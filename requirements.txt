@@ -4,3 +4,5 @@ pandas
 opencv-python
 pysimverse
 pynput
+mediapipe
+cvzone
